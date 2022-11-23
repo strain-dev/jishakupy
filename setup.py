@@ -101,8 +101,8 @@ with open(ROOT / 'README.md', 'r', encoding='utf-8') as f:
 
 setup(
     name='jishaku',
-    author='Devon (Gorialis) R',
-    url='https://github.com/Gorialis/jishaku',
+    author='Forked by strain-dev',
+    url='https://github.com/strain-dev/jishakupy',
 
     license='MIT',
     description='A discord.py extension including useful tools for bot development and debugging.',
@@ -110,8 +110,8 @@ setup(
     long_description_content_type='text/markdown',
     project_urls={
         'Documentation': 'https://jishaku.readthedocs.io/en/latest/',
-        'Code': 'https://github.com/Gorialis/jishaku',
-        'Issue tracker': 'https://github.com/Gorialis/jishaku/issues'
+        'Code': 'https://github.com/strain-dev/jishakupy',
+        'Issue tracker': 'https://github.com/strain-dev/jishakupy/issues'
     },
 
     version=version,
@@ -122,7 +122,7 @@ setup(
 
     extras_require=EXTRA_REQUIRES,
 
-    download_url=f'https://github.com/Gorialis/jishaku/archive/{version}.tar.gz',
+    download_url=f'https://github.com/strain-dev/jishakupy/archive/{version}.tar.gz',
 
     keywords='jishaku discord.py discord cog repl extension',
     classifiers=[
