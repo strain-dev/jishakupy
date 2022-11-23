@@ -262,3 +262,5 @@ You **must** have installed jishaku with one of the commands above before doing 
 ## Acknowledgements
 
 The documentation and this README uses icons from the <a href="https://github.com/google/material-design-icons">Material Design Icon</a> library, which is licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0.html">Apache License Version 2.0</a>.
+
+This is a forked version by strain-dev.
