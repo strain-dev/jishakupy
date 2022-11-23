@@ -100,7 +100,7 @@ with open(ROOT / 'README.md', 'r', encoding='utf-8') as f:
 
 
 setup(
-    name='jishaku',
+    name='strain-jishaku',
     author='Forked by strain-dev',
     url='https://github.com/strain-dev/jishakupy',
 
